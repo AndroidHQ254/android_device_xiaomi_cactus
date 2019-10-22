@@ -1,0 +1,4 @@
+# Proprietary files for x610_h651
+
+# RIL
+vendor/lib/libmtk-ril.so:lib/libmtk-ril.so
