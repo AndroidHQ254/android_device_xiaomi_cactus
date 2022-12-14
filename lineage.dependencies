@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_infinix_mt6765-common",
+    "target_path": "device/infinix/mt6765-common"
+  }
+]
