@@ -27,4 +27,4 @@ export DEVICE_BRINGUP_YEAR=2019
 
 BLOB_ROOT="${LINEAGE_ROOT}/vendor/${VENDOR}/${DEVICE}/proprietary"
 
-sed -i 's/AT+EAIC=2/AT+EAIC=3/g' "${BLOB_ROOT}/lib64/libmtk-ril.so"
+sed -i 's/AT+EAIC=2/AT+EAIC=3/g' "${BLOB_ROOT}/vendor/lib64/libmtk-ril.so"
